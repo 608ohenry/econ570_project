@@ -1,5 +1,8 @@
 # econ570_project
 
+https://yfinance-python.org/reference/yfinance.ticker_tickers.html
+https://yfinance-python.org/index.html
+
 TODO LIST:
 - Update the SP500 vs Visa_df to use regex, making the comparison more robust
 - Look at immigration apprehension data and see if there are any connections to the markets
