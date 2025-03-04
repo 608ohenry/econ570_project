@@ -8,8 +8,8 @@ TODO LIST:
 - Look at immigration apprehension data and see if there are any connections to the markets
 - Graph the percent of SP500 companies that get the visas - Owen
 - Look at why there are no companies recently that had visas (code error or real reason)
-- Use a geopandas map to show the cities that immigrants are in
-- Use a geopandas map to show a line from where they came from to where they are
+- Use a geopandas map to show the cities that immigrants are in - Zach
+- Use a geopandas map to show a line from where they came from to where they are - Zach
 - Make wanted_chart with the visa progression
 - Write about how we could stimulate the market with green cards for undergraduate degree holders in stem or desired majors
 - More ideas on how to connect immigration and the markets (think outside the box)
