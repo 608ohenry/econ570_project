@@ -14,6 +14,8 @@ TODO LIST:
 - Write about how we could stimulate the market with green cards for undergraduate degree holders in stem or desired majors
 - More ideas on how to connect immigration and the markets (think outside the box)
 - Find other reliable finance packages
-- Add a yf scraper that is timed into a csv so we do not have to pull all the time (this could be in a separate code file we turn in) - Owen
 - Ask prof if we can turn everything in that is in the github repo
 - Ask TA mitchell next week about what he does for visas (thats his research proj) and see if we can get some advice/data from him
+
+Completed
+- Add a yf scraper that is timed into a csv so we do not have to pull all the time (this could be in a separate code file we turn in) - Owen
