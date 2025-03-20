@@ -4,7 +4,7 @@ https://yfinance-python.org/reference/yfinance.ticker_tickers.html
 https://yfinance-python.org/index.html
 
 TODO LIST:
-- Update the SP500 vs Visa_df to use regex, making the comparison more robust
+- Update the SP500 vs Visa_df to use regex, making the comparison more robust - Matt
 - Look at immigration apprehension data and see if there are any connections to the markets
 - Graph the percent of SP500 companies that get the visas - Owen
 - Look at why there are no companies recently that had visas (code error or real reason)
