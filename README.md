@@ -22,6 +22,7 @@ FRED Data we can use
 - Federal Funds rate: use this to eliminate it as a variable in our predictions or our regressions
 - Net immigration rates: use this to scale or isolate our h1b visa data
 - Inflation/CPI: use this to scale down or if there is any correlations we can check
+- We should do a hypothesis test or two of what stats are actually meaningful
 
 Completed
 - Add a yf scraper that is timed into a csv so we do not have to pull all the time (this could be in a separate code file we turn in) - Owen
